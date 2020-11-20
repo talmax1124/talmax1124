@@ -23,9 +23,9 @@
 
 - ⚡ Fun fact **I am a loving and caring person. I love to be with family and friends. I spend my free time learning new languages and frameworks**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<h2>What I'm Listening To:</h2>
+
+[[https://spotify-github-profile.vercel.app/api/view.svg?uid=carlitosjdiazplaza&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=carlitosjdiazplaza&cover_image=true&theme=compact)]]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
