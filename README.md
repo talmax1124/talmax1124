@@ -16,6 +16,13 @@
     ~ Currently Learning Javascript + React
   </h4>
 
+
+  <h2>
+      What I Have Been Working On:
+  </h2>
+
+  <!--START_SECTION:activity-->
+
   <h4>
     ~ Founder + CEO + Dev of <a href="https://creativeduo.netlify.app" target="_blank" style="text-decoration: none;">Creative Duo</a>
   </h4>
