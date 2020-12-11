@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=talmax1124" alt="talmax1124" /></a> </p>
 
-- 🔭 I’m currently working on [Creative Duo](https://github.com/talmax1124/New-Knight-TImes-News-By-NeoCity-Academy-Website)
+- 🔭 I’m currently working on [Creative Duo](https://creativeduo.netlify.app) and [Creative Duo Shop](https://creativeduoshop.herokuapp.com)
 
 - 🌱 I’m currently learning **Javascript & React**
 
