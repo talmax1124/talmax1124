@@ -29,15 +29,15 @@ With only 16 years old, I am following the path of being a software developer. I
 
 <h1> My Most Used Programming Languages </h1>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=talmax1124)](https://github.com/talmax1124/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=talmax1124&theme=react)](https://github.com/talmax1124/github-readme-stats)
 
 <br>
 
 <h1> My Current Works </h1>
 
-[![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=talmax1124&repo=Ups-Downs-Buttons)](https://github.com/talmax1124/Ups-Downs-Buttons)
+[![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=talmax1124&repo=Ups-Downs-Buttons&theme=react)](https://github.com/talmax1124/Ups-Downs-Buttons)
 
-[![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=talmax1124&repo=shop)](https://github.com/talmax1124/shop)
+[![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=talmax1124&repo=shop&theme=react)](https://github.com/talmax1124/shop)
 
 
 
