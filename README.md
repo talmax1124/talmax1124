@@ -21,7 +21,7 @@ What I'm Learning:
 
 My Socials:
 [<img src='https://img.icons8.com/nolan/64/instagram-new.png' alt='instagram' height='40'>](https://www.instagram.com/slayy_talmax/)  
-More: (Linktree)[https://linktr.ee/creativeduo2020]
+More: [Linktree](https://linktr.ee/creativeduo2020)
 
 <br>
 
