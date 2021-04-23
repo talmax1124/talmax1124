@@ -1,26 +1,31 @@
-## <h1 align="center">Hi👋🏻, My Name Is Carlos</h1>
-<img src="https://i.ibb.co/G250JTH/Artboard-1.png" width="100%">
+## <h1 align="center">Hello 👋🏻, I'm Carlos!</h1>
+<img src="https://i.ibb.co/qFnczhQ/Screen-Shot-2021-04-23-at-12-57-52-AM.png" width="100%">
 
 <br>
 
-With only 16 years old, I am following the path of being a software developer. I like creating software, fixing computers, and making everyone happy. I like doing things the right way and make anyone have the best experience with me.
+Creating content, and digital products is my thing! I like helping others and making software to help others!
 
 <br>
 
-- I’m currently working on My Portfolio 
-- 🌱 I’m currently learning ReactJS 
-- 💬 Ask me about anything you want :) 
-- ⚡ Fun fact: I can move my ears 
-- I speak english & spanish fluently
+What I'm Working On Now: 
+- E-Commerce App
+- Landing Pages
+
+What I'm Learning:
+- React
+- Node.Js
+- Gatsby
+- Integrating Netlify CMS
 
 <br>
 
-[<img src='https://img.icons8.com/nolan/64/github.png' alt='github' height='40'>](https://github.com/talmax1124) 
+My Socials:
 [<img src='https://img.icons8.com/nolan/64/instagram-new.png' alt='instagram' height='40'>](https://www.instagram.com/slayy_talmax/)  
+More: (Linktree)[https://linktr.ee/creativeduo2020]
 
 <br>
 
-<h1> Stats </h1>
+<h1> My Github Stats </h1>
 
 ![Carlos github stats](https://github-readme-stats.vercel.app/api?username=talmax1124&theme=react&show_icons=true)
 
