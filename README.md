@@ -5,6 +5,8 @@
 
 Creating content, and digital products is my thing! I like helping others and making software to help others!
 
+Just a normal 16 year old drinking coffee and programming. LOL
+
 <br>
 
 What I'm Working On Now: 
