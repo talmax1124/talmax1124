@@ -44,7 +44,11 @@ More: [Linktree](https://linktr.ee/creativeduo2020)
 
 [![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=talmax1124&repo=Ups-Downs-Buttons&theme=react)](https://github.com/talmax1124/Ups-Downs-Buttons)
 
-[![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=talmax1124&repo=shop&theme=react)](https://github.com/talmax1124/shop)
+<br>
+
+<h1> Analytics </h1>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=talmax1124&theme=holi-theme&fire=DDB122&dates=FFFFFF)](https://git.io/streak-stats)
 
 
 
