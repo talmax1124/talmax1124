@@ -1,11 +1,10 @@
 ## <h1 align="center">Hello 👋🏻, I'm Carlos!</h1>
-<img src="https://i.ibb.co/qFnczhQ/Screen-Shot-2021-04-23-at-12-57-52-AM.png" width="100%">
+
+<img src="https://ucarecdn.com/c93f53f8-1133-4ce0-b944-de1f2ca47ebb/BannerLandscapeSpecialOfferUpto50Earphonebluetooth2.png" width="100%"/>
 
 <br>
 
-Creating content, and digital products is my thing! I like helping others and making software to help others!
-
-Just a normal 17 year old drinking coffee and programming. LOL
+Creating content, and digital products is my thing!
 
 <br>
 
